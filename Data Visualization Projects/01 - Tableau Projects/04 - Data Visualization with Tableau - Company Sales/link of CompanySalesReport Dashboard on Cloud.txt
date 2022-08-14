@@ -1,5 +1,0 @@
-https://public.tableau.com/views/CompanySalesReport/sales_report?:language=en-US&:display_count=n&:origin=viz_share_link
--------------------------------------------------------------------------------------
-OR this link
-
-https://public.tableau.com/app/profile/eslam170/viz/CompanySalesReport/sales_report
