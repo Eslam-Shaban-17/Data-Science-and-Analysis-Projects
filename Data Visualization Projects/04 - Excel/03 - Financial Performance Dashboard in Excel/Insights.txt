@@ -1,0 +1,28 @@
+1-total sales
+2-total cost
+3-total profit
+4-total qty
+5-no unique customer
+6-no unique orders
+7-total sales by year (rootcuase)
+8-total sales by product
+9-total sales by team
+10-total sales by channel
+11-total sales by customers
+12-total sales by region(rootcuase) city & state
+---> hidden relationships:-
+	1-cost & profit
+	2-qty & profit
+	3-qty & sales
+GM%
+avg order value
+cohort analysis
+
+questions?
+1-من وجهة نظرك المنتجات اللي تنصح بالاستغناء عنها ولماذا؟
+2- المنتجات اللي محتاج اهتم بيها اكتر
+3- الشهور اللي قلت المبيعات فيها مقارنتا بالعام السابق
+4-انت شايف ايه؟
+5-show value as rank, qyt vs profit
+6- cost vs profit
+7- cost vs profit vs sales
